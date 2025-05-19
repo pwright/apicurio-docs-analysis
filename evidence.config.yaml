@@ -80,5 +80,5 @@ plugins:
     "@evidence-dev/trino": { }
     "@evidence-dev/motherduck": { }
 
-project:
+deployment:
   basePath: /apicurio-docs-analysis
