@@ -1,1 +1,0 @@
-{"queries":[{"id":"attributes","compiledQueryString":"SELECT attribute as name, COUNT(DISTINCT path) AS value\nFROM file_attributes\nGROUP BY attribute","inputQueryString":"SELECT attribute as name, COUNT(DISTINCT path) AS value\nFROM file_attributes\nGROUP BY attribute","compiled":false,"inline":true}]}

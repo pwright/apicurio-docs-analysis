@@ -1,1 +1,0 @@
-{"queries":[{"id":"wc","compiledQueryString":"SELECT attribute as name, COUNT(DISTINCT value) AS value\nFROM attribute_values\nGROUP BY name\nHAVING COUNT(DISTINCT value) > 1;","inputQueryString":"SELECT attribute as name, COUNT(DISTINCT value) AS value\nFROM attribute_values\nGROUP BY name\nHAVING COUNT(DISTINCT value) > 1;","compiled":false,"inline":true}]}
