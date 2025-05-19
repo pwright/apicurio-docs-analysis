@@ -1,0 +1,1 @@
+{"queries":[{"id":"words","compiledQueryString":"SELECT\n  word,\n  count\nFROM words.words\nORDER BY count DESC","inputQueryString":"SELECT\n  word,\n  count\nFROM words.words\nORDER BY count DESC","compiled":false,"inline":true}]}
